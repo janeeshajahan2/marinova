@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of MARINOVA: AI Ocean Data Explorer",
+  "description": "An AI-powered conversational interface that transforms raw ARGO ocean data into interactive visualizations and actionable insights, making complex ocean science accessible to all.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
